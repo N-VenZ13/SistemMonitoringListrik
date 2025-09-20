@@ -1,7 +1,6 @@
 # Sistem Monitoring dan Kontrol Listrik Cerdas Berbasis IoT
 
-![Dashboard Monitoring Listrik](https://via.placeholder.com/800x400.png?text=Ganti+dengan+Screenshot+Dashboard+Anda)
-*(Ganti gambar di atas dengan screenshot dashboard utama proyek Anda)*
+image.png
 
 Sebuah proyek IoT full-stack yang dirancang untuk memantau penggunaan energi listrik secara real-time, mengontrol perangkat dari jarak jauh, dan memberikan notifikasi cerdas. Proyek ini dibangun sebagai bagian dari pekerjaan di **Allbright Project**.
 
